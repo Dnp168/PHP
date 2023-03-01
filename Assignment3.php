@@ -2,6 +2,7 @@
 
 <head>
     <title>Candidate Registration Form</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
@@ -97,6 +98,7 @@
 
     <h2>Registration Form</h2>
     <form  method="POST" >
+        <div class="container">
         Name:
         <input type="text" name="name">
         <span class="error">*
@@ -137,6 +139,7 @@
         <br><br>
         <input type="submit" name="submit" value="Submit">
         <br><br>
+        </div>
     </form>
 </body>
 
