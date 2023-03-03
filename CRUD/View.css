@@ -1,0 +1,34 @@
+body {
+    
+    font-family: Calibri, Helvetica, sans-serif;
+}
+
+.container {
+   margin-top: 03%;
+    align-items: center;
+    width: 50%;
+    background: #f1f1f1;
+}
+
+.row {
+   margin-left: 30%;
+    align-items: center;
+   
+    background: #f1f1f1;
+}
+
+
+.back {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+}
+
+
+
+
