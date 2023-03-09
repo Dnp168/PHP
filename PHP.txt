@@ -1,0 +1,13 @@
+Retrieving and Sending an E-mail using a PHP Function
+	
+Send E-mail using Simple Mail Transfer Protocol
+	
+Runtime Error Handling using PHP Exception Handling Mechanism
+	
+Use of Encryption in PHP 
+	
+PHP upload file and PHP download file 
+	
+sending email with file attachments 
+	
+errors and warning in PHP
